@@ -49,6 +49,17 @@ The following scripts are priorities:
       <td><a href="http://www.ukij.org/fonts/">UKIJ Orxun-Yensey</a>, <a href="http://www.daicing.com/manchu/index.php?page=fonts-downloads">Daicing</a>, <a href="https://www.turkolog.ist/">Islamic Old Uyghur</a></td>
    </tr>
    <tr>
+      <th rowspan="2">Bactrian</th>
+      <th>Inscriptional</th>
+      <td rowspan="2">LtR, TtB</td>
+      <td rowspan="2">U+101F0-U+1010FF</td>
+      <td rowspan="2">Greek</td>
+      <td rowspan="2"></td>
+   </tr>
+   <tr>
+      <th>Cursive</th>
+   </tr>
+   <tr>
       <th colspan="2">'Phags-pa script</th>
       <td></td>
       <td>U+A84X-U+A87X</td>
@@ -94,17 +105,6 @@ The following scripts are priorities:
       <td></td>
       <td>Brāhmī <a href="https://www.unicode.org/L2/L2015/15022-khotanese.pdf">(Khotanese-specific proposal)</a></td>
       <td></td>
-   </tr>
-   <tr>
-      <th rowspan="2">Bactrian</th>
-      <th>Inscriptional</th>
-      <td rowspan="2">LtR, TtB</td>
-      <td rowspan="2"><b>no</b> (U+037X-U+03FX)</td>
-      <td rowspan="2">Greek</td>
-      <td rowspan="2"></td>
-   </tr>
-   <tr>
-      <th>Cursive</th>
    </tr>
    <tr>
       <th colspan="2">Kitań large script</th>
