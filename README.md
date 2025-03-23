@@ -46,7 +46,7 @@ The following scripts are priorities:
       <td>U+10F70-U+10FAF</td>
       <td></td>
       <td></td>
-      <td><a href="http://www.ukij.org/fonts/">UKIJ Orxun-Yensey</a>, <a href="http://www.daicing.com/manchu/index.php?page=fonts-downloads">Daicing</a><a href="https://www.turkolog.ist/">Islamic Old Uyghur</a></td>
+      <td><a href="http://www.ukij.org/fonts/">UKIJ Orxun-Yensey</a>, <a href="http://www.daicing.com/manchu/index.php?page=fonts-downloads">Daicing</a>, <a href="https://www.turkolog.ist/">Islamic Old Uyghur</a></td>
    </tr>
    <tr>
       <th colspan="2">'Phags-pa script</th>
@@ -84,7 +84,7 @@ The following scripts are priorities:
       <td>LtR, TtB</td>
       <td><b>no</b> (U+11E00-U+11E6F)</td>
       <td></td>
-      <td>Brāhmī <a href="http://www.unicode.org/L2/L2003/03249r-brahmi-proposal.pdf">(an old proposal including Tokharian)</a>, <a href="https://www.unicode.org/L2/L2015/15023-tocharian.pdf">(Tokharian-specific proposal)</a></td>
+      <td>Brāhmī <a href="http://www.unicode.org/L2/L2003/03249r-brahmi-proposal.pdf">(an old proposal including Tokharian)</a>, <a href="https://www.unicode.org/L2/L2014/14192-turkestani.pdf">(Turkestani proposal, includes Khotanese)</a>, <a href="https://www.unicode.org/L2/L2015/15023-tocharian.pdf">(Tokharian-specific proposal)</a></td>
       <td></td>
    </tr>
    <tr>
