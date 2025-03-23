@@ -32,19 +32,21 @@ The following scripts are priorities:
    <tr>
       <th rowspan="2">Sogdian script</th>
       <th>Ancient</th>
+      <td>TtB, LtR</td>
       <td>U+10F00-U+10F2F</td>
    </tr>
    <tr>
       <th>Cursive</th>
+      <td>RtL, TtB</td>
       <td>U+10F30-U+10F6F</td>
    </tr>
    <tr>
       <th colspan="2">Old Uyghur script</th>
       <td>TtB, LtR</td>
-      <td><b>no</b> (U+180X-U+18AX)</td>
-      <td>Mongolian</td>
+      <td>U+10F70-U+10FAF</td>
       <td></td>
-      <td><a href="http://www.ukij.org/fonts/">UKIJ Orxun-Yensey</a>, <a href="http://www.daicing.com/manchu/index.php?page=fonts-downloads">Daicing</a></td>
+      <td></td>
+      <td><a href="http://www.ukij.org/fonts/">UKIJ Orxun-Yensey</a>, <a href="http://www.daicing.com/manchu/index.php?page=fonts-downloads">Daicing</a><a href="https://www.turkolog.ist/">Islamic Old Uyghur</a></td>
    </tr>
    <tr>
       <th colspan="2">'Phags-pa script</th>
@@ -63,7 +65,7 @@ The following scripts are priorities:
       <td></td>
    </tr>
    <tr>
-      <th colspan="2">[[Pahlavi script]]</th>
+      <th colspan="2">Pahlavi script</th>
       <td>RtL, TtB</td>
       <td>U+10B6X-U+10B7X</td>
       <td></td>
@@ -78,11 +80,19 @@ The following scripts are priorities:
       <td>Ahuramzda, Zavesta, Avestan</td>
    </tr>
    <tr>
-      <th colspan="2">[[Tokharian Brāhmī]]</th>
+      <th colspan="2">Northern Tarim Brāhmī (Tokharian)</th>
       <td>LtR, TtB</td>
-      <td><b>no</b></td>
+      <td><b>no</b> (U+11E00-U+11E6F)</td>
       <td></td>
-      <td>Brāhmī <a href="http://www.unicode.org/L2/L2003/03249r-brahmi-proposal.pdf">(an old proposal including Tokharian)</a></td>
+      <td>Brāhmī <a href="http://www.unicode.org/L2/L2003/03249r-brahmi-proposal.pdf">(an old proposal including Tokharian)</a>, <a href="https://www.unicode.org/L2/L2015/15023-tocharian.pdf">(Tokharian-specific proposal)</a></td>
+      <td></td>
+   </tr>
+   <tr>
+      <th colspan="2">Southern Tarim Brāhmī (Khotanese)</th>
+      <td>LtR, TtB</td>
+      <td><b>no</b> (U+11E70-U+11ECF)</td>
+      <td></td>
+      <td>Brāhmī <a href="https://www.unicode.org/L2/L2015/15022-khotanese.pdf">(Khotanese-specific proposal)</a></td>
       <td></td>
    </tr>
    <tr>
