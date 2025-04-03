@@ -121,6 +121,7 @@ The following scripts are priorities:
       <td></td>
    </tr>
 </table>
+
 ## Taking part
 If you'd like to join us to work towards developing fonts for any of these writing systems, please contact us!
 
